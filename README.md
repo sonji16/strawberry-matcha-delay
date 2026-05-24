@@ -1,4 +1,5 @@
-🍓🍵 Strawberry Matcha Delay🍓🍵 
+🍓🍵 **Strawberry Matcha Delay**🍓🍵 
+
 A custom audio delay plugin built in JUCE / C++, featuring a hand-designed user interface and a real-time signal scope. 
 This project focuses on pairing functional audio DSP with a polished, original front-end design.
 
