@@ -5,11 +5,13 @@ This project focuses on pairing functional audio DSP with a polished, original f
 
 <img width="633" height="697" alt="Screenshot 2026-05-12 at 1 38 37 PM" src="https://github.com/user-attachments/assets/cae3f87f-a299-4974-bc42-94e347981c26" />
 
-**Overview**
+**Overview**  
+
 Strawberry Matcha Delay is a stereo delay effect with three core controls and a live waveform display. 
 It was built to explore both sides of audio plugin development: the signal processing and the visual/interaction design.
 
-**Features**
+**Features**  
+
 Time — adjusts the delay time
 Feedback — controls how much of the delayed signal is fed back into the effect
 Mix — blends dry (input) and wet (delayed) signal
@@ -20,7 +22,8 @@ the lowcut and highcut knobs.
 Real-time signal scope — live visualization of the audio waveform
 Custom UI — implemented with a custom JUCE LookAndFeel
 
-**Built With**
+**Built With**  
+
 C++
 JUCE framework
 Projucer (project management / build configuration)
